@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name toloka_tracker
-// @version 0.0.25
+// @version 0.0.26
 // @author Vadim Makarov
 // @description toloka_tracker
 // @match https://toloka.yandex.ru/requester/project/*/pool/*/assignments/*
-// @match https://toloka.yandex.com/requester/project/*/pool/*/assignments/*
+// @match https://toloka.yandex.com/*/requester/project/*/pool/*/assignments/*
 // @namespace https://app.userscript.com
 // @grant GM_xmlhttpRequest
 // @connect 51.250.13.216
